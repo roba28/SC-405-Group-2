@@ -6,7 +6,7 @@ using System.Windows.Forms;
 using SistemaPuntoDeVenta.Vista;
 using SistemaPuntoDeVenta.Repositorio;
 using SistemaPuntoDeVenta.Reporte;
-
+//esto es una prueba 
 namespace SistemaPuntoDeVenta
 {
     static class Program
